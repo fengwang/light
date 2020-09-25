@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/foundation.dart' show required, compute;
-import 'package:epub/epub.dart';
+import '../epub/epub.dart';
 import 'package:html/parser.dart';
 import 'package:html/dom.dart' as dom;
 import '../models/book.dart';

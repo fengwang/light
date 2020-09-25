@@ -7,17 +7,17 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: "^0.1.0"
-  url_launcher: "^3.0.0"
-  shared_preferences: "^0.4.1"
-  simple_permissions: "^0.1.2"
-  path_provider: "^0.4.0"
-  path: "^1.5.1"
-  html: "^0.13.3"
-  epub:
-    git:
-      url: https://github.com/creatint/dart-epub-cn
-      ref: e414f4f018d9b5c6239e9a391a01bf6ef679a5d2
+  cupertino_icons:
+  url_launcher:
+  shared_preferences:
+  simple_permissions:
+  path_provider:
+  path:
+  html:
+  async:
+  archive:
+  xml:
+  image:
 
 dev_dependencies:
   flutter_test:
@@ -78,5 +78,5 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
-  # For details regarding fonts from package dependencies, 
+  # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
